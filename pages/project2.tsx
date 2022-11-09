@@ -14,7 +14,11 @@ const Project2: NextPage = () => {
     <div>
       <Image src={projectImage} />
       <div className="mt-4">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+         <ul>
+        <li>- Implemented a Java application in a team of 5 members for service seekers and service providers by following Model View Controller (MVC) architectural pattern with MySQL as a database.</li>
+        <li>- Followed CI/CD pipeline with GitLab and Agile methodology with Jira and Test-Driven Development (TDD) to deploy the application across three platforms, including Heroku. </li>
+        <li>- Accomplished 10+ weekly and monthly deadlines for the planning and implementation of various modules. </li>
+        </ul>
       </div>
       <div className="mt-6">
         <Link href="/">
