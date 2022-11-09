@@ -16,14 +16,14 @@ const Home: NextPage = () => {
 
   projectMetadataArray.push({
     title: "Project 1",
-    desc: "Processes data in Python",
+    desc: "Mapn|Python, Flask, VueJS, MongoDB, am Charts, AWS",
     linkUrl: "/project1",
     image: "/project1.jpg",
   });
 
   projectMetadataArray.push({
     title: "Project 2",
-    desc: "Cleans up podcast audio",
+    desc: "EStoreFront | Java, Spring Boot, Maven, MySQL",
     linkUrl: "/project2",
     image: "/project2.jpg",
   });
