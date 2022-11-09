@@ -16,8 +16,9 @@ const Experience: NextPage = () => {
       <div className="mt-4">
       Software Developer <p className="italic font-bold">Swap Development</p>
       <ul>
-        <li>- Developed a number of web applications to work with data management systems and integrated third party APIs.</li>
-        <li>- Explored ways to automate project workflows and visualize GitHub project collaboration in a business setting.</li>
+        <li>- Worked in an agile and fast-paced work environment that included daily stand-ups/SCRUM meetings, functional knowledge, sprint planning and managed 20 projects using versioning systems such Git, Bitbucket, GitHub, and GitLab. </li>
+        <li>- Developed Web applications using React, Vue, Angular, Flask, Java, and Express JS to work with REST APIs using MongoDB, PostgreSQL, and MySQL as 3 databases. </li>
+        <li>- Attained Experience with the Software development Lifecycle, CI/CD pipelines, Jira, Asana, DevOps tooling, AWS services, and integrated payment gateways for 5 major applications using Stripe, PayPal, Razor pay, and other banks. </li>
       </ul>
       </div>
       <div className="mt-6">
