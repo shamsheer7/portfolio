@@ -14,13 +14,14 @@ const Home: NextPage = () => {
     image: "/project3.jpg",
   });
 
+  
   projectMetadataArray.push({
     title: "Project 1",
-    desc: "Mapn|Python, Flask, VueJS, MongoDB, am Charts, AWS",
+    desc: "Mapn | Python, Flask, VueJS, MongoDB. AWS",
     linkUrl: "/project1",
     image: "/project1.jpg",
   });
-
+  
   projectMetadataArray.push({
     title: "Project 2",
     desc: "EStoreFront | Java, Spring Boot, Maven, MySQL",
