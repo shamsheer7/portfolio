@@ -14,7 +14,9 @@ const Project1: NextPage = () => {
     <div>
       <Image src={projectImage} />
       <div className="mt-4">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Developed a platform for online listing of places, primarily based on a customized map that divides 7 continents and allows users to select places based on a specific area and book the location. 
+      Integrated Payment gateways such as PayPal and Stripe with 4 modules to allow users to make payments while reserving rooms. 
+      Optimized the experience of the customer support system by 20% using a chatbot constructed in AWS Lex.
       </div>
       <div className="mt-6">
         <Link href="/">
