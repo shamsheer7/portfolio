@@ -11,7 +11,7 @@ const Home: NextPage = () => {
     title: "Project 1",
     desc: "Mapn | Python, Flask, VueJS, MongoDB, AWS",
     linkUrl: "/project1",
-    image: "/project1.jpg",
+    image: "/project3.jpg",
   });
   
   projectMetadataArray.push({
