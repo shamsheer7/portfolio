@@ -8,10 +8,10 @@ const Home: NextPage = () => {
   const projectMetadataArray = [];
 
   projectMetadataArray.push({
-    title: "Experience",
-    desc: "Experience | Software Developer",
-    linkUrl: "/experience",
-    image: "/project3.jpg",
+    title: "Project 1",
+    desc: "Mapn | Python, Flask, VueJS, MongoDB, AWS",
+    linkUrl: "/project1",
+    image: "/project1.jpg",
   });
   
   projectMetadataArray.push({
