@@ -9,7 +9,7 @@ const Home: NextPage = () => {
 
   projectMetadataArray.push({
     title: "Work Experience",
-    desc: "Developer | Python, Flask, VueJS, MongoDB, AWS",
+    desc: "Industry Experience in Software Development",
     linkUrl: "/experience",
     image: "/project3.jpg",
   });
