@@ -9,7 +9,7 @@ const Home: NextPage = () => {
 
   projectMetadataArray.push({
     title: "Work Experience",
-    desc: "Software Developer | Industry Experience",
+    desc: "Software Developer | Industry Experience in Developer",
     linkUrl: "/experience",
     image: "/project3.jpg",
   });
