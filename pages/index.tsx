@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   const projectMetadataArray = [];
 
   projectMetadataArray.push({
-    title: "Project 1",
+    title: "Work Experience",
     desc: "Mapn | Python, Flask, VueJS, MongoDB, AWS",
     linkUrl: "/project1",
     image: "/project3.jpg",
